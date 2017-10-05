@@ -10,7 +10,7 @@ class HashTable{
   HashTable();
   void insert(string a);
   unsigned int hash(string str);
-    unsigned int hash2(string str);
+  unsigned int hash2(string str);
   bool contains(string b);
   void setSize(int c);
   
